@@ -25,5 +25,5 @@ Issued by **one to 10X** on **20th August 2025**
 
 ## 📫 Connect With Me
 
-* 💼 [LinkedIn](www.linkedin.com/in/kalpana-maddi-7b3344357)
-* 📧 Email: [your-email@example.com](mailto:kalpanamaddi495@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/kalpana-maddi-7b3344357)
+* 📧 Email: (mailto:kalpanamaddi495@gmail.com)
