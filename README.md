@@ -5,7 +5,7 @@ I recently earned the **10X Generative AI & Data Analyst Certification (2025)** 
 
 * ✅ Data Analysis & Visualization
 * ✅ SQL & Python for Data Analytics
-* ✅ Business Intelligence (Power BI, Excel)
+* ✅ Business Intelligence (Tableau, Google Sheets)
 * ✅ Generative AI for Data-driven Insights
 
 ## 📂 Repository Contents
@@ -14,7 +14,7 @@ This repo will feature:
 
 * 📈 **Case Studies** – End-to-end data analysis projects
 * 🔎 **Exploratory Data Analysis (EDA)** – Using Python (Pandas, NumPy, Matplotlib, Seaborn)
-* 📊 **Dashboards** – Power BI & Excel dashboards for business insights
+* 📊 **Dashboards** – Tableau & Google Sheets dashboards for business insights
 * 🤖 **AI-Powered Analytics** – Applying Generative AI to enhance data workflows
 
 ## 🏆 Certification
